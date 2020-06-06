@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: ./../../../../.titanium/mobilesdk/linux/9.0.2.GA/android/kroll-apt.jar">
-    <CLASSES>
-      <root url="jar://$USER_HOME$/.titanium/mobilesdk/linux/9.0.2.GA/android/kroll-apt.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

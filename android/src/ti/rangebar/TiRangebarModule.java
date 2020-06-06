@@ -10,22 +10,16 @@ package ti.rangebar;
 
 import org.appcelerator.kroll.KrollModule;
 import org.appcelerator.kroll.annotations.Kroll;
-
-import org.appcelerator.titanium.TiApplication;
 import org.appcelerator.kroll.common.Log;
 import org.appcelerator.kroll.common.TiConfig;
+import org.appcelerator.titanium.TiApplication;
 
-
-@Kroll.module(name="TiRangebar", id="ti.rangebar")
+@Kroll.module(name = "TiRangebar", id = "ti.rangebar")
 public class TiRangebarModule extends KrollModule
 {
 
 	// Standard Debugging variables
 	private static final String LCAT = "TiRangebarModule";
-	private static final boolean DBG = TiConfig.LOGD;
-
-	// You can define constants with @Kroll.constant, for example:
-	// @Kroll.constant public static final String EXTERNAL_NAME = value;
 
 	public TiRangebarModule()
 	{
@@ -34,5 +28,6 @@ public class TiRangebarModule extends KrollModule
 
 	@Kroll.onAppCreate
 	public static void onAppCreate(TiApplication app)
-	{}
+	{
+	}
 }

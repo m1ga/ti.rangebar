@@ -12,9 +12,7 @@ import android.app.Activity;
 import android.content.res.Resources;
 import android.view.LayoutInflater;
 import android.view.View;
-
 import com.appyvet.materialrangebar.RangeBar;
-
 import org.appcelerator.kroll.KrollDict;
 import org.appcelerator.kroll.annotations.Kroll;
 import org.appcelerator.kroll.common.Log;
@@ -23,18 +21,16 @@ import org.appcelerator.titanium.proxy.TiViewProxy;
 import org.appcelerator.titanium.util.TiConvert;
 import org.appcelerator.titanium.view.TiUIView;
 
-// This proxy can be created by calling TiRangebar.createExample({message: "hello world"})
-@Kroll.proxy(creatableInModule=TiRangebarModule.class)
+@Kroll.proxy(creatableInModule = TiRangebarModule.class)
 public class RangebarViewProxy extends TiViewProxy
 {
-	// Standard Debugging variables
 	private static final String LCAT = "ExampleProxy";
-	private static final boolean DBG = TiConfig.LOGD;
 	RangeBar rangebar;
 
 	private class RangebarView extends TiUIView
 	{
-		public RangebarView(TiViewProxy proxy) {
+		public RangebarView(TiViewProxy proxy)
+		{
 			super(proxy);
 			String packageName = proxy.getActivity().getPackageName();
 			Resources resources = proxy.getActivity().getResources();
@@ -53,7 +49,9 @@ public class RangebarViewProxy extends TiViewProxy
 
 			rangebar.setOnRangeBarChangeListener(new RangeBar.OnRangeBarChangeListener() {
 				@Override
-				public void onRangeChangeListener(RangeBar rangeBar, int leftPinIndex, int rightPinIndex, String leftPinValue, String rightPinValue) {
+				public void onRangeChangeListener(RangeBar rangeBar, int leftPinIndex, int rightPinIndex,
+												  String leftPinValue, String rightPinValue)
+				{
 					KrollDict d = new KrollDict();
 					d.put("startValue", rangeBar.getLeftPinValue());
 					d.put("endValue", rangeBar.getRightPinValue());
@@ -61,7 +59,8 @@ public class RangebarViewProxy extends TiViewProxy
 				}
 
 				@Override
-				public void onTouchEnded(RangeBar rangeBar) {
+				public void onTouchEnded(RangeBar rangeBar)
+				{
 					KrollDict d = new KrollDict();
 					d.put("startValue", rangeBar.getLeftPinValue());
 					d.put("endValue", rangeBar.getRightPinValue());
@@ -69,7 +68,8 @@ public class RangebarViewProxy extends TiViewProxy
 				}
 
 				@Override
-				public void onTouchStarted(RangeBar rangeBar) {
+				public void onTouchStarted(RangeBar rangeBar)
+				{
 					KrollDict d = new KrollDict();
 					d.put("startValue", rangeBar.getLeftPinValue());
 					d.put("endValue", rangeBar.getRightPinValue());
@@ -82,37 +82,35 @@ public class RangebarViewProxy extends TiViewProxy
 
 		@Override
 		public void processProperties(KrollDict d)
-        {
-		    super.processProperties(d);
+		{
+			super.processProperties(d);
 
 			if (d.containsKey("tickEnd")) {
-                rangebar.setTickEnd(TiConvert.toFloat(d.get("tickEnd"), 0.0f));
-            }
+				rangebar.setTickEnd(TiConvert.toFloat(d.get("tickEnd"), 0.0f));
+			}
 
 			if (d.containsKey("tickStart")) {
-                rangebar.setTickStart(TiConvert.toFloat(d.get("tickStart"), 0.0f));
-            }
+				rangebar.setTickStart(TiConvert.toFloat(d.get("tickStart"), 0.0f));
+			}
 
-            if (d.containsKey("tickInterval")) {
-                rangebar.setTickInterval(TiConvert.toFloat(d.get("tickInterval"), 0.0f));
-            }
+			if (d.containsKey("tickInterval")) {
+				rangebar.setTickInterval(TiConvert.toFloat(d.get("tickInterval"), 0.0f));
+			}
 
 			if (d.containsKey("tickColor")) {
-				rangebar.setTickDefaultColor(TiConvert.toColor( (String) d.get("tickColor")));
+				rangebar.setTickDefaultColor(TiConvert.toColor((String) d.get("tickColor")));
 			}
 			if (d.containsKey("leftThumbColor")) {
-				rangebar.setLeftThumbColor(TiConvert.toColor( (String) d.get("leftThumbColor")));
+				rangebar.setLeftThumbColor(TiConvert.toColor((String) d.get("leftThumbColor")));
 			}
 			if (d.containsKey("rightThumbColor")) {
-				rangebar.setRightThumbColor(TiConvert.toColor( (String) d.get("rightThumbColor")));
+				rangebar.setRightThumbColor(TiConvert.toColor((String) d.get("rightThumbColor")));
 			}
 			if (d.containsKey("connectionLineColor")) {
-				rangebar.setConnectingLineColor(TiConvert.toColor( (String) d.get("connectionLineColor")));
+				rangebar.setConnectingLineColor(TiConvert.toColor((String) d.get("connectionLineColor")));
 			}
-
 		}
 	}
-
 
 	// Constructor
 	public RangebarViewProxy()
@@ -136,23 +134,24 @@ public class RangebarViewProxy extends TiViewProxy
 		super.handleCreationDict(options);
 	}
 
-	// Methods
-	@Kroll.method
-	public void printMessage(String message)
-	{
-		Log.d(LCAT, "printing message: " + message);
-	}
-
-
-	@Kroll.getProperty @Kroll.method
-	public String getMessage()
-	{
-        return "Hello World from my module";
-	}
-
-	@Kroll.setProperty @Kroll.method
-	public void setMessage(String message)
-	{
-	    Log.d(LCAT, "Tried setting module message to: " + message);
-	}
+	// // Methods
+	// @Kroll.method
+	// public void printMessage(String message)
+	// {
+	// 	Log.d(LCAT, "printing message: " + message);
+	// }
+	//
+	// @Kroll.getProperty
+	// @Kroll.method
+	// public String getMessage()
+	// {
+	// 	return "Hello World from my module";
+	// }
+	//
+	// @Kroll.setProperty
+	// @Kroll.method
+	// public void setMessage(String message)
+	// {
+	// 	Log.d(LCAT, "Tried setting module message to: " + message);
+	// }
 }

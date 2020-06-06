@@ -5,23 +5,20 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
-<com.appyvet.materialrangebar.RangeBar
-        android:id="@+id/rangebar1"
+    <com.appyvet.materialrangebar.RangeBar
+        android:id="@+id/rangebar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:mrb_rangeBar="true"
-        app:mrb_rangeBar_rounded="true"
-        app:mrb_thumbSize="10dp"
         app:mrb_pinMaxFont="15sp"
         app:mrb_pinMinFont="12sp"
-        app:mrb_temporaryPins="true"
+        app:mrb_rangeBar="true"
+        app:mrb_thumbSize="10dp"
         app:mrb_tickDefaultColor="#000"
         app:mrb_tickDefaultLabel="label"
         app:mrb_tickHeight="4dp"
         app:mrb_tickInterval="1"
         app:mrb_tickLabelColor="#000000"
         app:mrb_tickLabelSelectedColor="#000000"
-        app:mrb_tickStart="1"
-        />
+        app:mrb_tickStart="1" />
 
 </FrameLayout>

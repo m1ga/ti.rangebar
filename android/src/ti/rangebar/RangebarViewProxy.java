@@ -24,7 +24,7 @@ import org.appcelerator.titanium.view.TiUIView;
 @Kroll.proxy(creatableInModule = TiRangebarModule.class)
 public class RangebarViewProxy extends TiViewProxy
 {
-	private static final String LCAT = "ExampleProxy";
+	private static final String LCAT = "Rangebar";
 	RangeBar rangebar;
 
 	private class RangebarView extends TiUIView
@@ -40,7 +40,7 @@ public class RangebarViewProxy extends TiViewProxy
 			int resIdPublish;
 
 			resId_viewHolder = resources.getIdentifier("layout_main", "layout", packageName);
-			resIdPublish = resources.getIdentifier("rangebar1", "id", packageName);
+			resIdPublish = resources.getIdentifier("rangebar", "id", packageName);
 
 			LayoutInflater inflater = LayoutInflater.from(proxy.getActivity());
 			viewWrapper = inflater.inflate(resId_viewHolder, null);
@@ -97,8 +97,27 @@ public class RangebarViewProxy extends TiViewProxy
 				rangebar.setTickInterval(TiConvert.toFloat(d.get("tickInterval"), 0.0f));
 			}
 
+			if (d.containsKey("thumbSize")) {
+				rangebar.setThumbSize(TiConvert.toInt(d.get("thumbSize"), 10));
+			}
+			if (d.containsKey("staticPins")) {
+				rangebar.setTemporaryPins(!TiConvert.toBoolean(d.get("staticPins"), false));
+			}
+
+			if (d.containsKey("pinColor")) {
+				rangebar.setPinColor(TiConvert.toColor((String) d.get("pinColor")));
+			}
+			if (d.containsKey("pinRadius")) {
+				rangebar.setPinRadius(TiConvert.toInt(d.get("pinRadius"), 30));
+			}
+			if (d.containsKey("range")) {
+				rangebar.setRangeBarEnabled(TiConvert.toBoolean(d.get("range"), true));
+			}
 			if (d.containsKey("tickColor")) {
 				rangebar.setTickDefaultColor(TiConvert.toColor((String) d.get("tickColor")));
+			}
+			if (d.containsKey("tickSize")) {
+				rangebar.setTickHeight(TiConvert.toFloat(d.get("tickSize"), 4.0f));
 			}
 			if (d.containsKey("leftThumbColor")) {
 				rangebar.setLeftThumbColor(TiConvert.toColor((String) d.get("leftThumbColor")));
@@ -133,25 +152,4 @@ public class RangebarViewProxy extends TiViewProxy
 	{
 		super.handleCreationDict(options);
 	}
-
-	// // Methods
-	// @Kroll.method
-	// public void printMessage(String message)
-	// {
-	// 	Log.d(LCAT, "printing message: " + message);
-	// }
-	//
-	// @Kroll.getProperty
-	// @Kroll.method
-	// public String getMessage()
-	// {
-	// 	return "Hello World from my module";
-	// }
-	//
-	// @Kroll.setProperty
-	// @Kroll.method
-	// public void setMessage(String message)
-	// {
-	// 	Log.d(LCAT, "Tried setting module message to: " + message);
-	// }
 }

@@ -1,0 +1,3 @@
+dependencies {
+    implementation 'com.appyvet:materialrangebar:1.4.8'
+}

@@ -1,0 +1,33 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/miga/dev/ti.rangebar/android/build/module/src/main/AndroidManifest.xml:2:1-140
+INJECTED from /home/miga/dev/ti.rangebar/android/build/module/src/main/AndroidManifest.xml:2:1-140
+INJECTED from /home/miga/dev/ti.rangebar/android/build/module/src/main/AndroidManifest.xml:2:1-140
+INJECTED from /home/miga/dev/ti.rangebar/android/build/module/src/main/AndroidManifest.xml:2:1-140
+INJECTED from /home/miga/dev/ti.rangebar/android/build/module/src/main/AndroidManifest.xml:2:1-140
+	package
+		ADDED from /home/miga/dev/ti.rangebar/android/build/module/src/main/AndroidManifest.xml:2:117-138
+		INJECTED from /home/miga/dev/ti.rangebar/android/build/module/src/main/AndroidManifest.xml
+		INJECTED from /home/miga/dev/ti.rangebar/android/build/module/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/miga/dev/ti.rangebar/android/build/module/src/main/AndroidManifest.xml
+		ADDED from /home/miga/dev/ti.rangebar/android/build/module/src/main/AndroidManifest.xml:2:1-140
+		INJECTED from /home/miga/dev/ti.rangebar/android/build/module/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/miga/dev/ti.rangebar/android/build/module/src/main/AndroidManifest.xml:2:70-116
+	xmlns:android
+		ADDED from /home/miga/dev/ti.rangebar/android/build/module/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from /home/miga/dev/ti.rangebar/android/build/module/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/miga/dev/ti.rangebar/android/build/module/src/main/AndroidManifest.xml
+INJECTED from /home/miga/dev/ti.rangebar/android/build/module/src/main/AndroidManifest.xml
+INJECTED from /home/miga/dev/ti.rangebar/android/build/module/src/main/AndroidManifest.xml
+INJECTED from /home/miga/dev/ti.rangebar/android/build/module/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/miga/dev/ti.rangebar/android/build/module/src/main/AndroidManifest.xml
+		ADDED from /home/miga/dev/ti.rangebar/android/build/module/src/main/AndroidManifest.xml
+		INJECTED from /home/miga/dev/ti.rangebar/android/build/module/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/miga/dev/ti.rangebar/android/build/module/src/main/AndroidManifest.xml
+		ADDED from /home/miga/dev/ti.rangebar/android/build/module/src/main/AndroidManifest.xml
+		INJECTED from /home/miga/dev/ti.rangebar/android/build/module/src/main/AndroidManifest.xml

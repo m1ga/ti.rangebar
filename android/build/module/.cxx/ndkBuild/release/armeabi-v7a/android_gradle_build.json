@@ -1,0 +1,53 @@
+{
+  "buildFiles": [
+    "/home/miga/dev/ti.rangebar/android/build/module/src/main/jni/Android.mk"
+  ],
+  "cleanCommands": [
+    "/home/miga/tools/Android/ndk/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/miga/dev/ti.rangebar/android/build/module/src/main/jni/Android.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-19 NDK_OUT\u003d/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/ndkBuild/release/lib APP_CPPFLAGS+\u003d-std\u003dc++11 APP_STL:\u003dc++_shared clean"
+  ],
+  "buildTargetsCommand": "/home/miga/tools/Android/ndk/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/miga/dev/ti.rangebar/android/build/module/src/main/jni/Android.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-19 NDK_OUT\u003d/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/ndkBuild/release/lib APP_CPPFLAGS+\u003d-std\u003dc++11 APP_STL:\u003dc++_shared -j12 {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "ti.rangebar-release-armeabi-v7a": {
+      "buildCommand": "/home/miga/tools/Android/ndk/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/miga/dev/ti.rangebar/android/build/module/src/main/jni/Android.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-19 NDK_OUT\u003d/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/ndkBuild/release/lib APP_CPPFLAGS+\u003d-std\u003dc++11 APP_STL:\u003dc++_shared -j12 /home/miga/dev/ti.rangebar/android/build/module/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libti.rangebar.so",
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "ti.rangebar",
+      "files": [
+        {
+          "src": "/home/miga/dev/ti.rangebar/android/build/module/src/main/jni/../../../build/ti-generated/jni/TiModuleBootstrap.cpp",
+          "flags": "-gcc-toolchain /home/miga/tools/Android/ndk/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64 -fpic -ffunction-sections -funwind-tables -fstack-protector-strong -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -no-canonical-prefixes -fno-integrated-as -g -target armv7-none-linux-androideabi19 -march\u003darmv7-a -mfloat-abi\u003dsoftfp -mfpu\u003dvfpv3-d16 -fno-exceptions -fno-rtti -mthumb -Os -DNDEBUG -I/home/miga/tools/Android/ndk/sources/cxx-stl/llvm-libc++/include -I/home/miga/tools/Android/ndk/sources/cxx-stl/llvm-libc++/../llvm-libc++abi/include -I/home/miga/tools/Android/ndk/sources/android/support/include -I/home/miga/dev/ti.rangebar/android/build/module/src/main/jni -std\u003dc++11 -std\u003dc++11 -DANDROID -g \"-I/home/miga/.titanium/mobilesdk/linux/9.0.2.GA/android/native/include\" -Wno-conversion-null -Wno-format-security -Wno-format -Wno-tautological-compare -Wno-unused-result -Wno-deprecated-register -D__ANDROID_API__\u003d19 -Wa,--noexecstack -Wno-error\u003dformat-security --sysroot /home/miga/tools/Android/ndk/sysroot -isystem /home/miga/tools/Android/ndk/sysroot/usr/include/arm-linux-androideabi"
+        },
+        {
+          "src": "/home/miga/dev/ti.rangebar/android/build/module/src/main/jni/../../../build/ti-generated/jni/ti.rangebar.RangebarViewProxy.cpp",
+          "flags": "-gcc-toolchain /home/miga/tools/Android/ndk/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64 -fpic -ffunction-sections -funwind-tables -fstack-protector-strong -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -no-canonical-prefixes -fno-integrated-as -g -target armv7-none-linux-androideabi19 -march\u003darmv7-a -mfloat-abi\u003dsoftfp -mfpu\u003dvfpv3-d16 -fno-exceptions -fno-rtti -mthumb -Os -DNDEBUG -I/home/miga/tools/Android/ndk/sources/cxx-stl/llvm-libc++/include -I/home/miga/tools/Android/ndk/sources/cxx-stl/llvm-libc++/../llvm-libc++abi/include -I/home/miga/tools/Android/ndk/sources/android/support/include -I/home/miga/dev/ti.rangebar/android/build/module/src/main/jni -std\u003dc++11 -std\u003dc++11 -DANDROID -g \"-I/home/miga/.titanium/mobilesdk/linux/9.0.2.GA/android/native/include\" -Wno-conversion-null -Wno-format-security -Wno-format -Wno-tautological-compare -Wno-unused-result -Wno-deprecated-register -D__ANDROID_API__\u003d19 -Wa,--noexecstack -Wno-error\u003dformat-security --sysroot /home/miga/tools/Android/ndk/sysroot -isystem /home/miga/tools/Android/ndk/sysroot/usr/include/arm-linux-androideabi"
+        },
+        {
+          "src": "/home/miga/dev/ti.rangebar/android/build/module/src/main/jni/../../../build/ti-generated/jni/ti.rangebar.TiRangebarModule.cpp",
+          "flags": "-gcc-toolchain /home/miga/tools/Android/ndk/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64 -fpic -ffunction-sections -funwind-tables -fstack-protector-strong -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -no-canonical-prefixes -fno-integrated-as -g -target armv7-none-linux-androideabi19 -march\u003darmv7-a -mfloat-abi\u003dsoftfp -mfpu\u003dvfpv3-d16 -fno-exceptions -fno-rtti -mthumb -Os -DNDEBUG -I/home/miga/tools/Android/ndk/sources/cxx-stl/llvm-libc++/include -I/home/miga/tools/Android/ndk/sources/cxx-stl/llvm-libc++/../llvm-libc++abi/include -I/home/miga/tools/Android/ndk/sources/android/support/include -I/home/miga/dev/ti.rangebar/android/build/module/src/main/jni -std\u003dc++11 -std\u003dc++11 -DANDROID -g \"-I/home/miga/.titanium/mobilesdk/linux/9.0.2.GA/android/native/include\" -Wno-conversion-null -Wno-format-security -Wno-format -Wno-tautological-compare -Wno-unused-result -Wno-deprecated-register -D__ANDROID_API__\u003d19 -Wa,--noexecstack -Wno-error\u003dformat-security --sysroot /home/miga/tools/Android/ndk/sysroot -isystem /home/miga/tools/Android/ndk/sysroot/usr/include/arm-linux-androideabi"
+        },
+        {
+          "src": "/home/miga/dev/ti.rangebar/android/build/module/src/main/jni/../../../build/ti-generated/jni/ti.seekbar.ExampleProxy.cpp",
+          "flags": "-gcc-toolchain /home/miga/tools/Android/ndk/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64 -fpic -ffunction-sections -funwind-tables -fstack-protector-strong -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -no-canonical-prefixes -fno-integrated-as -g -target armv7-none-linux-androideabi19 -march\u003darmv7-a -mfloat-abi\u003dsoftfp -mfpu\u003dvfpv3-d16 -fno-exceptions -fno-rtti -mthumb -Os -DNDEBUG -I/home/miga/tools/Android/ndk/sources/cxx-stl/llvm-libc++/include -I/home/miga/tools/Android/ndk/sources/cxx-stl/llvm-libc++/../llvm-libc++abi/include -I/home/miga/tools/Android/ndk/sources/android/support/include -I/home/miga/dev/ti.rangebar/android/build/module/src/main/jni -std\u003dc++11 -std\u003dc++11 -DANDROID -g \"-I/home/miga/.titanium/mobilesdk/linux/9.0.2.GA/android/native/include\" -Wno-conversion-null -Wno-format-security -Wno-format -Wno-tautological-compare -Wno-unused-result -Wno-deprecated-register -D__ANDROID_API__\u003d19 -Wa,--noexecstack -Wno-error\u003dformat-security --sysroot /home/miga/tools/Android/ndk/sysroot -isystem /home/miga/tools/Android/ndk/sysroot/usr/include/arm-linux-androideabi"
+        },
+        {
+          "src": "/home/miga/dev/ti.rangebar/android/build/module/src/main/jni/../../../build/ti-generated/jni/ti.seekbar.RangebarViewProxy.cpp",
+          "flags": "-gcc-toolchain /home/miga/tools/Android/ndk/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64 -fpic -ffunction-sections -funwind-tables -fstack-protector-strong -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -no-canonical-prefixes -fno-integrated-as -g -target armv7-none-linux-androideabi19 -march\u003darmv7-a -mfloat-abi\u003dsoftfp -mfpu\u003dvfpv3-d16 -fno-exceptions -fno-rtti -mthumb -Os -DNDEBUG -I/home/miga/tools/Android/ndk/sources/cxx-stl/llvm-libc++/include -I/home/miga/tools/Android/ndk/sources/cxx-stl/llvm-libc++/../llvm-libc++abi/include -I/home/miga/tools/Android/ndk/sources/android/support/include -I/home/miga/dev/ti.rangebar/android/build/module/src/main/jni -std\u003dc++11 -std\u003dc++11 -DANDROID -g \"-I/home/miga/.titanium/mobilesdk/linux/9.0.2.GA/android/native/include\" -Wno-conversion-null -Wno-format-security -Wno-format -Wno-tautological-compare -Wno-unused-result -Wno-deprecated-register -D__ANDROID_API__\u003d19 -Wa,--noexecstack -Wno-error\u003dformat-security --sysroot /home/miga/tools/Android/ndk/sysroot -isystem /home/miga/tools/Android/ndk/sysroot/usr/include/arm-linux-androideabi"
+        },
+        {
+          "src": "/home/miga/dev/ti.rangebar/android/build/module/src/main/jni/../../../build/ti-generated/jni/ti.seekbar.TiSeekbarModule.cpp",
+          "flags": "-gcc-toolchain /home/miga/tools/Android/ndk/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64 -fpic -ffunction-sections -funwind-tables -fstack-protector-strong -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -no-canonical-prefixes -fno-integrated-as -g -target armv7-none-linux-androideabi19 -march\u003darmv7-a -mfloat-abi\u003dsoftfp -mfpu\u003dvfpv3-d16 -fno-exceptions -fno-rtti -mthumb -Os -DNDEBUG -I/home/miga/tools/Android/ndk/sources/cxx-stl/llvm-libc++/include -I/home/miga/tools/Android/ndk/sources/cxx-stl/llvm-libc++/../llvm-libc++abi/include -I/home/miga/tools/Android/ndk/sources/android/support/include -I/home/miga/dev/ti.rangebar/android/build/module/src/main/jni -std\u003dc++11 -std\u003dc++11 -DANDROID -g \"-I/home/miga/.titanium/mobilesdk/linux/9.0.2.GA/android/native/include\" -Wno-conversion-null -Wno-format-security -Wno-format -Wno-tautological-compare -Wno-unused-result -Wno-deprecated-register -D__ANDROID_API__\u003d19 -Wa,--noexecstack -Wno-error\u003dformat-security --sysroot /home/miga/tools/Android/ndk/sysroot -isystem /home/miga/tools/Android/ndk/sysroot/usr/include/arm-linux-androideabi"
+        }
+      ],
+      "output": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libti.rangebar.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-armeabi-v7a": {
+      "cppCompilerExecutable": "/home/miga/tools/Android/ndk/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

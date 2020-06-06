@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/disclosure_96.png",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/91db157ce067e942ba43dd0de45940fd/jetified-titanium-9.0.2/res/drawable/disclosure_96.png"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/disclosure_48.png",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/91db157ce067e942ba43dd0de45940fd/jetified-titanium-9.0.2/res/drawable/disclosure_48.png"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/navigation_empty_icon.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/e42876f3a22b0989407d919f87571182/material-1.0.0/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_btn_colored_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/disclosure_192.png",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/91db157ce067e942ba43dd0de45940fd/jetified-titanium-9.0.2/res/drawable/disclosure_192.png"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_dialog_material_background.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/btn_radio_on_to_off_mtrl_animation.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/btn_radio_on_to_off_mtrl_animation.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_ratingbar_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/1d03a599df7326e1c2569c083cdbf450/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_btn_radio_material_anim.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_btn_radio_material_anim.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/btn_more_144.png",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/91db157ce067e942ba43dd0de45940fd/jetified-titanium-9.0.2/res/drawable/btn_more_144.png"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/btn_check_buttonless_on_192.png",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/91db157ce067e942ba43dd0de45940fd/jetified-titanium-9.0.2/res/drawable/btn_check_buttonless_on_192.png"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/btn_more_48.png",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/91db157ce067e942ba43dd0de45940fd/jetified-titanium-9.0.2/res/drawable/btn_more_48.png"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/btn_radio_on_mtrl.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/disclosure_72.png",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/91db157ce067e942ba43dd0de45940fd/jetified-titanium-9.0.2/res/drawable/disclosure_72.png"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/background.png",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/91db157ce067e942ba43dd0de45940fd/jetified-titanium-9.0.2/res/drawable/background.png"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/btn_check_buttonless_on_144.png",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/91db157ce067e942ba43dd0de45940fd/jetified-titanium-9.0.2/res/drawable/btn_check_buttonless_on_144.png"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/design_password_eye.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/e42876f3a22b0989407d919f87571182/material-1.0.0/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_btn_check_material_anim.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_btn_check_material_anim.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/1d03a599df7326e1c2569c083cdbf450/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/btn_more_72.png",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/91db157ce067e942ba43dd0de45940fd/jetified-titanium-9.0.2/res/drawable/btn_more_72.png"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/btn_checkbox_checked_mtrl.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/ic_mtrl_chip_checked_circle.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/e42876f3a22b0989407d919f87571182/material-1.0.0/res/drawable/ic_mtrl_chip_checked_circle.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/mtrl_snackbar_background.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/e42876f3a22b0989407d919f87571182/material-1.0.0/res/drawable/mtrl_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/design_fab_background.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/e42876f3a22b0989407d919f87571182/material-1.0.0/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/disclosure_144.png",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/91db157ce067e942ba43dd0de45940fd/jetified-titanium-9.0.2/res/drawable/disclosure_144.png"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/btn_more_192.png",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/91db157ce067e942ba43dd0de45940fd/jetified-titanium-9.0.2/res/drawable/btn_more_192.png"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/design_snackbar_background.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/e42876f3a22b0989407d919f87571182/material-1.0.0/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/tooltip_frame_light.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/roundrect.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/da3cf05971fe5f818aa92086476f7f7e/materialrangebar-1.4.8/res/drawable/roundrect.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_edit_text_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/btn_checkbox_unchecked_mtrl.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/mtrl_tabs_default_indicator.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/e42876f3a22b0989407d919f87571182/material-1.0.0/res/drawable/mtrl_tabs_default_indicator.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/btn_radio_off_mtrl.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/btn_check_buttonless_on_96.png",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/91db157ce067e942ba43dd0de45940fd/jetified-titanium-9.0.2/res/drawable/btn_check_buttonless_on_96.png"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/rotate.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/da3cf05971fe5f818aa92086476f7f7e/materialrangebar-1.4.8/res/drawable/rotate.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/1d03a599df7326e1c2569c083cdbf450/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_vector_test.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/886bc85ed736b1c0f63bacee624f5b6c/appcompat-resources-1.1.0/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/btn_more_96.png",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/91db157ce067e942ba43dd0de45940fd/jetified-titanium-9.0.2/res/drawable/btn_more_96.png"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/btn_check_buttonless_on_36.png",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/91db157ce067e942ba43dd0de45940fd/jetified-titanium-9.0.2/res/drawable/btn_check_buttonless_on_36.png"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/tooltip_frame_dark.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/1d03a599df7326e1c2569c083cdbf450/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_ic_clear_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/ic_mtrl_chip_checked_black.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/e42876f3a22b0989407d919f87571182/material-1.0.0/res/drawable/ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/e42876f3a22b0989407d919f87571182/material-1.0.0/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/btn_radio_off_to_on_mtrl_animation.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/btn_radio_off_to_on_mtrl_animation.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/btn_check_buttonless_on_48.png",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/91db157ce067e942ba43dd0de45940fd/jetified-titanium-9.0.2/res/drawable/btn_check_buttonless_on_48.png"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_list_divider_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/btn_check_buttonless_on_72.png",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/91db157ce067e942ba43dd0de45940fd/jetified-titanium-9.0.2/res/drawable/btn_check_buttonless_on_72.png"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/ic_mtrl_chip_close_circle.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/e42876f3a22b0989407d919f87571182/material-1.0.0/res/drawable/ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/btn_more_36.png",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/91db157ce067e942ba43dd0de45940fd/jetified-titanium-9.0.2/res/drawable/btn_more_36.png"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/disclosure_36.png",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/91db157ce067e942ba43dd0de45940fd/jetified-titanium-9.0.2/res/drawable/disclosure_36.png"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/drawable/abc_list_selector_holo_dark.xml"
+    }
+]

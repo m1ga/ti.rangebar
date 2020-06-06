@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/e42876f3a22b0989407d919f87571182/material-1.0.0/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/e42876f3a22b0989407d919f87571182/material-1.0.0/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    }
+]

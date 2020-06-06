@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 4
+architectures: arm64-v8a armeabi-v7a x86 x86_64
+description: ti.rangebar
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2020 by Michael Gangolf
+
+# these should not be edited
+name: ti.rangebar
+moduleid: ti.rangebar
+guid: 9b0f7899-4d1c-44cf-9ceb-ffa9a7b8b6d7
+platform: android
+minsdk: 9.0.2.GA

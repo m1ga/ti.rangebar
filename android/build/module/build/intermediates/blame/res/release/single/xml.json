@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/xml/titanium_ui_vertical_nested_scrollview.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/91db157ce067e942ba43dd0de45940fd/jetified-titanium-9.0.2/res/xml/titanium_ui_vertical_nested_scrollview.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/xml/titanium_ui_horizontal_nested_scrollview.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/91db157ce067e942ba43dd0de45940fd/jetified-titanium-9.0.2/res/xml/titanium_ui_horizontal_nested_scrollview.xml"
+    }
+]

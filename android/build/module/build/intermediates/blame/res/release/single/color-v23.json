@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/e42876f3a22b0989407d919f87571182/material-1.0.0/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/miga/dev/ti.rangebar/android/build/module/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/228939e9909da12152f609283f34e4ac/appcompat-1.1.0/res/color-v23/abc_btn_colored_text_material.xml"
+    }
+]
